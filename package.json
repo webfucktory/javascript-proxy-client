@@ -1,5 +1,5 @@
 {
-  "name": "@webfucktory/proxy-client-js",
+  "name": "@webfucktory/proxy-client",
   "version": "0.0.1",
   "main": "src/index.js",
   "dependencies": {
