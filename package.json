@@ -1,11 +1,26 @@
 {
   "name": "@webfucktory/proxy-client",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "src/index.js",
   "dependencies": {
     "axios": "^0.23.0"
   },
   "publishConfig": {
     "@webfucktory:registry": "https://npm.pkg.github.com"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webfucktory/proxy-client-js.git"
+  },
+  "author": "webfucktory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webfucktory/proxy-client-js/issues"
+  },
+  "homepage": "https://github.com/webfucktory/proxy-client-js#readme",
+  "description": ""
 }
