@@ -2,7 +2,6 @@
   "name": "@webfucktory/proxy-client",
   "version": "0.1.6",
   "main": "src/index.js",
-  "type": "module",
   "dependencies": {
     "axios": "^0.23.0"
   },
