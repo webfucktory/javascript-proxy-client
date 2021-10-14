@@ -50,4 +50,4 @@ const getProxyList = async (protocols = [], countryCodes = [], maxPing = null) =
     return response.data
 }
 
-export {protocols, setServiceUrl, getProxyList}
+export { protocols, setServiceUrl, getProxyList }
