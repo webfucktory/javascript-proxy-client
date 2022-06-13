@@ -1,5 +1,5 @@
 {
-  "name": "@webfucktory/proxy-client",
+  "name": "@webfucktory/proxies",
   "version": "0.1.11",
   "main": "src/index.js",
   "dependencies": {
@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webfucktory/proxy-client-js.git"
+    "url": "git+https://github.com/webfucktory/javascript-proxy-client.git"
   },
   "author": "webfucktory",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/webfucktory/proxy-client-js/issues"
+    "url": "https://github.com/webfucktory/javascript-proxy-client/issues"
   },
-  "homepage": "https://github.com/webfucktory/proxy-client-js#readme",
-  "description": ""
+  "homepage": "https://github.com/webfucktory/javascript-proxy-client#readme",
+  "description": "Proxy client"
 }
