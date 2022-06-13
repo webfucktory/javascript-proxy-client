@@ -1,6 +1,6 @@
 {
   "name": "@webfucktory/proxies",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "main": "src/index.js",
   "dependencies": {
     "axios": "^0.23.0"
